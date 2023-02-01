@@ -1,0 +1,17 @@
+article .card .card-header .text_header {
+    font-size: 20px;
+    float: left;
+}
+
+
+.gioithieu{
+    border:  1px solid black;
+}
+.icon{
+    margin-top: 20px;
+}
+.anhgioithieu img{
+ margin-top: 50px;
+ width: 85%;
+ margin-left: 100px;
+}

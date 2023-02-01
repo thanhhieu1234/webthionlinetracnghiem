@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right , rgb(234, 173, 183) , rgb(104, 194, 219));
+}
+.dk_form{
+    border: 1px solid black;
+    height: 650px;
+    background: white;
+    margin-top: 40px;
+}
+.dk_form h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.dk{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 80%;
+    height: 35px;
+    border-radius: 10px ;
+}
+.dk_radio{
+    margin-left: 40px;
+   margin-top: 20px;
+}
+.btn_dk{
+    background: linear-gradient(to right , rgb(220, 118, 186) , rgb(89, 200, 218));
+    margin-left: 130px;
+    width: 220px;
+    color: white;
+}
+.logo_lg{
+    margin-left: 90px;
+}
+.logo_lg img{
+margin: 20px;
+}

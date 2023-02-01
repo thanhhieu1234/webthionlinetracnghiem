@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(to right , rgb(234, 173, 183) , rgb(104, 194, 219));
+}
+.login {
+   border: 1px solid rgb(12, 1, 1) ;
+   height: 650px;
+   background: white;
+  
+}
+
+.login_form h3{
+    margin-top: 30px;
+}
+.lg_dn{
+    border: 1px solid ;
+    border-color: transparent transparent black transparent;
+    height:40px;
+    margin-left: 5px;
+    margin-top: 30px;
+    
+}
+.dangnhap{
+    margin-bottom: 50px; 
+    margin-top: 10px;
+    width: 250px;
+    margin-left: 120px;
+}
+.quenmatkhau{
+    margin-top: -70px;
+    width: 150px;
+    margin-left: 120px;
+}
+.dangky{
+   margin-top: 90px;
+   margin-left: -90px;
+}
+
+.btn_lg{
+    border-radius: 15px  ;
+    background: linear-gradient(to right , rgb(135, 57, 70) , rgb(104, 194, 219));
+    color: white;
+    margin-top: 20px;
+}
+.logo_lg{
+    margin-left: 58px;
+}
+.logo_lg img{
+margin: 10px;
+}
+
